@@ -1,4 +1,7 @@
 # Video Games Sales Analysis
+- [Project Overview](#Project-Overview)
+- [Results/Findings](#Results/Findings)
+- [tl;dr](#tl;dr)
 ### Project overview:
 The goal of this data analysis project will be to find the trends and prepare dynamic charts to visualize said trends within different regions and genres and to track the gaming industry's growth since the 1980s.
 ### Data Source:
