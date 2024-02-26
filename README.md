@@ -18,7 +18,7 @@ Ideas to explore/questions to answer :
 - growth of the gaming industry
 - leading publishers
 - top performing genres in each region and top sellers in each genre
-- brief overview of Nintendo
+- a brief overview of Nintendo
 ### Results/Findings:
 - Since the arcade days, the gaming industry has seen exceptional growth.
 - The Japanese market behaves differently compared to the other 3 markets.
