@@ -23,4 +23,5 @@ Ideas to explore/questions to answer :
 - Since the arcade days, the gaming industry has seen exceptional growth.
 - The Japanese market behaves differently compared to the other 3 markets.
 
-### tl;dr: I played with some Excel functions, pivot tables and charts.
+### tl;dr: 
+I played with some Excel functions, pivot tables and charts.
